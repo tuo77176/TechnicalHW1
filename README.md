@@ -1,1 +1,1 @@
-# TechnicalHW1
+# TechnicalHW1 - Daniel Gillespie
